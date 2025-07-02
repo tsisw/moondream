@@ -1,4 +1,4 @@
-# 🌔 moondream2
+# 🌔 moondream
 
 a tiny vision language model that kicks ass and runs anywhere
 
